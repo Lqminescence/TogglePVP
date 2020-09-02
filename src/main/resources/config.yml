@@ -8,3 +8,5 @@
 #     - When PVP is enabled, players will loose their inventory if they die
 
 coolDownSeconds: 10
+
+PVPTimer: 5
