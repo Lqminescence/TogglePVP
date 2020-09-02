@@ -1,0 +1,7 @@
+name: TogglePVP
+version: ${project.version}
+main: me.luminescence.togglepvp.Main
+api-version: 1.16
+commands:
+  pvp:
+    description: Enables PVP

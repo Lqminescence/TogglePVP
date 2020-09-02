@@ -1,0 +1,10 @@
+# - Configuration - Toggle PVP - #
+# - Add me on discord @timmy55#9360 - #
+
+# - Commands - #
+#
+# /pvp
+#     - Toggles whether or not PVP is enabled or Disabled for a player
+#     - When PVP is enabled, players will loose their inventory if they die
+
+coolDownSeconds: 10
